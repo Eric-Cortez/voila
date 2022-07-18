@@ -19,3 +19,5 @@ stop venv
 run to open voila
 `voila <filename>.ipyn`
 # voila
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/main?labpath=Main%20Dash.ipynb)

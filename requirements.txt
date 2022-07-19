@@ -11,7 +11,7 @@ multiprocess==0.70.13
 numpy
 opt-einsum==3.3.0
 packaging==21.3
-pandas==1.4.3
+pandas
 pathos==0.2.9
 Pillow==9.2.0
 pox==0.3.1

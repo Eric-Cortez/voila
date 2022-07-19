@@ -90,9 +90,9 @@ pyrsistent==0.18.1
 python-dateutil==2.8.2
 pytz==2022.1
 PyYAML==6.0
-pyzmq==23.0.0
+pyzmq
 requests==2.27.1
-scikit-learn==1.1.1
+scikit-learn
 scipy==1.8.1
 seaborn==0.11.2
 Send2Trash==1.8.0

@@ -20,4 +20,4 @@ run to open voila
 `voila <filename>.ipyn`
 # voila
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/main?labpath=main_dash.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/main?labpath=aepsych_dash_v3.ipynb)

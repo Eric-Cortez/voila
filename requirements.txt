@@ -1,9 +1,4 @@
-bqplot
-ipympl
-ipyvolume
-scipy
-voila
-aepsych
+aepsych==0.1.0
 botorch==0.6.5
 cycler==0.11.0
 dill==0.3.5.1

@@ -11,3 +11,16 @@ jupyterlab-widgets==1.1.1
 notebook==6.4.12
 pipenv==2022.5.2
 voila==0.3.5
+
+matplotlib
+torch
+pyzmq==19.0.2
+scipy
+sklearn
+gpytorch>=1.4
+git+https://github.com/pytorch/botorch@main#egg=botorch
+SQLAlchemy
+dill
+pandas
+tqdm
+pathos

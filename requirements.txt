@@ -1,3 +1,4 @@
+aepsych
 bqplot
 ipympl
 ipyvolume

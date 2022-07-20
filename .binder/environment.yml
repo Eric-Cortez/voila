@@ -2,9 +2,9 @@ name: voila
 channels:
   - defaults
 dependencies:
+  - aepsych 
   - bqplot
   - ipympl
   - ipyvolume
   - scipy
   - voila
- 

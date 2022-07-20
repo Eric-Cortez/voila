@@ -1,0 +1,13 @@
+name: voila
+channels:
+  - conda-forge
+dependencies:
+  - aepsych
+  - jupyterlab=3
+  - ipyvolume
+  - bqplot
+  - scipy
+  - ipympl
+  - ipympl
+  - xleaflet=0.16.0
+  - xeus-cling=0.13.0

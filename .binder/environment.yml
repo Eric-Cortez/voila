@@ -2,11 +2,9 @@ name: voila
 channels:
   - defaults
 dependencies:
-  - jupyterlab=3
-  - ipyvolume
   - bqplot
+  - ipympl
+  - ipyvolume
   - scipy
-  - ipympl
-  - ipympl
-  - xleaflet=0.16.0
-  - xeus-cling=0.13.0
+  - voila
+ 

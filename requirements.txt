@@ -3,3 +3,4 @@ ipympl
 ipyvolume
 scipy
 voila
+aepsych

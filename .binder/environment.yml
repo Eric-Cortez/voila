@@ -1,7 +1,8 @@
-name: base
+name: voila
 channels:
   - defaults
 dependencies:
+  - aepsych
   - jupyterlab=3
   - ipyvolume
   - bqplot

@@ -6,9 +6,9 @@ install Voila
 
 dependency anaconda
  <!-- Start instructions -->
-start virtual environment
+1) start virtual environment
 `source bin/activate`
-
+`conda activate`
 stop venv
 `deactivate`
 

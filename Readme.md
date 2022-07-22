@@ -9,6 +9,7 @@ dependency anaconda
 1) start virtual environment
 `source bin/activate`
 `conda activate`
+`jupyter notebook`
 stop venv
 `deactivate`
 

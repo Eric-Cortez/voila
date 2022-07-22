@@ -1,6 +1,7 @@
 # Interactive AEPsych
 
-With the help of Voila and Binder you can now
+
+With the help of Voila and Binder, you can now
 conduct experiments with interactive widgets.
 
 To start or resume an experiment launch the interactive dashboard.
@@ -12,11 +13,15 @@ To start or resume an experiment launch the interactive dashboard.
 
 ## Installation
 
-Requirements:
+Requirements: python 3.8+ and anaconda
 
-AEPsych only supports python 3.8+.We recommend installing AEPsych under a
-virtual environment like Anaconda. Once you've created a virtual environment
-for AEPsych and activated it, you can install AEPsych using pip:
+Note: These steps are to install and run a jupyter notebook locally
+rather than launching Binder as stated above.
+
+We recommend installing Interactive AEPsych under a virtual
+environment like Anaconda. Once you've created a virtual environment
+for Interactive AEPsych and activated it, you can install the requirements
+using pip:
 
 ```bash
 git clone https://<<---add--->>
@@ -25,27 +30,23 @@ pip install -r requirements.txt
 ```
 
 
+### Activate virtual environment
 
+```bash
+source bin/activate
+conda activate
+jupyter notebook
+```
+### Deactivate virtual environment
+```bash
+deactivate
+conda deactivate
+```
 
-`conda activate`
+### Voila
 
-install Voila
- `pip install voila`
+Use the following command to run voila locally
 
-
-dependency anaconda
- <!-- Start instructions -->
-1) start virtual environment
-`source bin/activate`
-`conda activate`
-`jupyter notebook`
-stop venv
-`deactivate`
-
-<!-- activate conda environment  -->
-`conda activate`
-`conda deactivate`
-
-run to open voila
-`voila <filename>.ipyn`
-# voila
+```bash
+voila <filename>.ipyn
+```

@@ -1,0 +1,10 @@
+dependencies:
+  - python==3.8.10 #
+  - pip==21.0 #
+  - pip:
+    - aepsych
+    - bqplot
+    - ipympl
+    - ipyvolume
+    - scipy
+    - voila

@@ -1,6 +1,6 @@
+aepsych==0.1.0
 bqplot
 ipympl
 ipyvolume
 scipy
 voila
-aepsych

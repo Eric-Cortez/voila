@@ -7,8 +7,7 @@ conduct experiments with interactive widgets.
 To start or resume an experiment launch the interactive dashboard.
 
 dash_v4
-
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fdashboard_v4.ipynb)
 
 ## Installation
 

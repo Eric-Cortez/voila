@@ -4,3 +4,5 @@ ipympl
 ipyvolume
 scipy
 voila
+
+dill

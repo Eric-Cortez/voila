@@ -1,0 +1,9 @@
+{
+    "VoilaExecutePreprocessor": {
+        "cell_error_instruction" : ""
+    },
+    "VoilaConfiguration": {
+        "theme": "dark",
+        "template": "gridstack"
+      }
+}

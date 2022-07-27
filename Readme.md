@@ -6,7 +6,6 @@ conduct experiments with interactive widgets.
 To start or resume an experiment launch the interactive dashboard.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fdash_v7.ipynb)
-
 ## Installation
 
 Requirements: python 3.8+ and anaconda

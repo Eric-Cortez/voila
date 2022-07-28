@@ -12,6 +12,10 @@ test--speed
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fdash_v8.ipynb)
 ## Installation
 
+dash_v8
+https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fdash_v8.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fdash_v8.ipynb)
+
 Requirements: python 3.8+ and anaconda
 
 Note: These steps are to install and run a jupyter notebook locally

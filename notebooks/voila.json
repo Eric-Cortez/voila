@@ -6,6 +6,12 @@
         "dash_v8.ipynb": {
             "pool_size": 5
         },
+        "dash_v8.1.ipynb": {
+            "pool_size": 5
+        },
+        "dash_v8.2.ipynb": {
+            "pool_size": 5
+        },
         "default": {
             "pool_size": 2
         },

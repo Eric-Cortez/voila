@@ -16,7 +16,6 @@ https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnoteb
 dash v8.2
 https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fdash_v8.2.ipynb
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2Fdash_v8.2.ipynb)
-
 ## Installation
 
 Requirements: python 3.8+ and anaconda

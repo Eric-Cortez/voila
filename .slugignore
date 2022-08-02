@@ -1,2 +1,3 @@
-/app/test_notebooks/
-/app/lib
+test_notebooks/
+lib
+six==1.16.0

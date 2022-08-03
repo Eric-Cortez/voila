@@ -5,8 +5,9 @@ conduct experiments with interactive widgets.
 
 To start or resume an experiment launch the interactive dashboard.
 
-https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FAEPsych_dashboard.ipynb
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FAEPsych_dashboard.ipynb)
+https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FInteractive%20AEPsych.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Fnotebooks%2FInteractive%20AEPsych.ipynb)
+
 Requirements: python 3.8+ and anaconda
 
 Note: These steps are to install and run a jupyter notebook locally

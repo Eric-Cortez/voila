@@ -1,10 +1,12 @@
 {
     "VoilaConfiguration": {
-       "preheat_kernel": true,
-       "show_tracebacks": true
+       "preheat_kernel": true
     },
     "kernel_pools_config": {
-        "dash_v8.2.ipynb": {
+        "AEPsych_Visualizer.ipynb": {
+            "pool_size": 10
+        },
+        "combo_dash.ipynb": {
             "pool_size": 10
         },
         "default": {

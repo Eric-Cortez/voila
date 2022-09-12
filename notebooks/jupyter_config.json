@@ -7,7 +7,7 @@
         "cell_error_instruction" : ""
     },
     "VoilaConfiguration": {
-        "file_whitelist": "['.*\.(html|png|jpg|gif|svg|db)']",
+        "file_whitelist": "['.*\.(zip|db)']",
         "theme": "dark"
         }
 }

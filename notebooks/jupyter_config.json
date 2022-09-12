@@ -5,5 +5,9 @@
     },
     "VoilaExecutePreprocessor": {
         "cell_error_instruction" : ""
-    }
+    },
+    "VoilaConfiguration": {
+        "file_whitelist": "['.*\.(html|png|jpg|gif|svg|db)']",
+        "theme": "dark"
+        }
 }

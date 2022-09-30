@@ -3,7 +3,7 @@
        "preheat_kernel": true
     },
     "kernel_pools_config": {
-        "AEPsych_Visualizer_Dash.ipynb": {
+        "AEPsych_Visualizer_Dash_Beta.ipynb": {
             "pool_size": 10
         },
         "default": {

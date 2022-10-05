@@ -3,3 +3,4 @@ logs/
 bin/
 lib/
 test_notebooks/
+include/

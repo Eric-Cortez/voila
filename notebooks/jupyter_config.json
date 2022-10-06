@@ -1,12 +1,5 @@
 {
-    "voila": {
-        "template": "material",
-        "theme": "dark"
-    },
     "VoilaExecutePreprocessor": {
         "cell_error_instruction" : ""
-    },
-    "VoilaConfiguration": {
-        "file_whitelist": "['.*\.(zip|db)']"
-        }
+    }
 }

@@ -5,4 +5,3 @@ ipyvolume
 scipy
 voila
 
-dill

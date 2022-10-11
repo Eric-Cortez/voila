@@ -50,3 +50,8 @@ Use the following command to run voila locally
 ```bash
 voila <filename>.ipyn
 ```
+
+<!-- ```
+for debugging
+voila AEPsych_Visualizer_Dash_Beta.ipynb --show_tracebacks=True
+``` -->

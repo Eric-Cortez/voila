@@ -2,7 +2,7 @@ dependencies:
   - python==3.9.4
   - pip==22.1.1
   - pip:
-    - aepsych
+    - aepsych==0.2.0
     - bqplot
     - ipympl
     - ipyvolume

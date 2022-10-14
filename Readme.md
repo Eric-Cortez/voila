@@ -8,6 +8,10 @@ conduct experiments with interactive widgets.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/main?urlpath=voila%2Frender%2Fnotebooks%2FAEPsych_Visualizer_Dash_Beta.ipynb)
 
+
+w/fixed 3D
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Eric-Cortez/voila/HEAD?urlpath=voila%2Frender%2Ftest.ipynb)
+
 Requirements: python 3.8+ and anaconda
 
 Note: These steps are to install and run a jupyter notebook locally

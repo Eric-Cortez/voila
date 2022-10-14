@@ -10,3 +10,4 @@ dependencies:
     - scipy
     - voila
     - panel
+    - ipywidgets==7.7.1 

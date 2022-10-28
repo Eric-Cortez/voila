@@ -9,4 +9,4 @@ dependencies:
     - ipyvolume
     - scipy
     - voila
-    - ipywidgets==7.7.1
+    - ipywidgets==8

@@ -8,7 +8,7 @@ dependencies:
   - pip==22.1.1
   - jupyterlab==3.4.4
   - pip:
-    - git+https://github.com/aleju/imgaug
+    - git+https://git.example.com/MyProject.git@5190366bc52ba5d8cc7a566e057691b324aa1770
     - aepsych-client==0.1.1
     - voila==0.3.6
     - ipywidgets==7.6.5
